@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muratcan</h1>
-<h3 align="center">As a 3rd-year computer engineering student. I am honing my skills by building cross-platform applications with Flutter and Dart.</h3>
+<h3 align="center"> I am a 3rd year computer engineering student. I improve my protection by developing cross-platform applications with Flutter and Dart. </h3>
 
 - 🔭 I’m currently working on **mobile application development**
 
