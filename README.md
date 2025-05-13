@@ -2,7 +2,6 @@
 <h3 align="center">4th year Computer Engineering student passionate about mobile application development and cross-platform solutions.</h3>
 
 - 🔭 I’m currently working on **DermaScanAI**, an AI-powered skin scanner app built with **React Native** and **Django** backend.
-- 🌱 I’m currently learning **Kotlin** for native Android development and **.NET** for backend systems.
 - 🚀 I recently developed a short-term project: **Online Appointment Management System** using **.NET** and **C#**.
 - 💬 Ask me about **Flutter**, **Dart**, **React Native**, **Firebase**, **Python**, and **.NET** technologies.
 - 📫 How to reach me: **contact@muratcanoksum.com**
@@ -66,9 +65,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muratcanoksum&show_icons=true&theme=react" alt="muratcanoksum stats" />
 </p>
-
-### 📈 GitHub Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muratcanoksum&theme=github" alt="GitHub Activity Graph" />
-</p>
-
